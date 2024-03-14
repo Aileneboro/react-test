@@ -1,4 +1,5 @@
 // src/App.jsx
+import Product from "./Product";
 
 const Product = () => {
   return (
